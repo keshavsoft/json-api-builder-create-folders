@@ -1,5 +1,5 @@
 {
-  "name": "@keshavsoft/json-api-builder-create-folders",
+  "name": "json-api-builder-create-folders",
   "version": "1.0.0",
   "description": "Create folders stage for JSON API Builder.",
   "type": "module",
